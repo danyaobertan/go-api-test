@@ -2,10 +2,9 @@ package main
 
 import (
 	"fmt"
+	"github.com/danyaobertan/api-test/initializers"
+	"github.com/danyaobertan/api-test/models"
 	"log"
-
-	"github.com/wpcodevo/golang-gorm-postgres/initializers"
-	"github.com/wpcodevo/golang-gorm-postgres/models"
 )
 
 func init() {
